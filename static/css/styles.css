@@ -1,0 +1,61 @@
+@font-face {
+    font-family: RobotoCondensed;
+    src: url(fonts/RobotoCondensed-Regular.ttf);
+  }
+@font-face {
+    font-family: RobotoCondensed-Italic;
+    src: url(fonts/RobotoCondensed-Italic.ttf);
+    font-style: italic;
+  }
+@font-face {
+    font-family: RobotoCondensed-Bold;
+    src: url(fonts/RobotoCondensed-Bold.ttf);
+    font-style: bold;
+  }
+  @font-face {
+    font-family: RobotoCondensed-BoldItalic;
+    src: url(fonts/RobotoCondensed-BoldItalic.ttf);
+    font-style: bold italic;
+  }
+body{
+    background-color: #2A6F97;
+    font-family: RobotoCondensed;
+}
+.topnav ul{
+    text-align: center;
+    margin-right: -8px;
+    margin-left: -8px;
+    margin-top: -8px;
+    background-color: #012A4A;
+    overflow: hidden;
+}
+.topnav li:last-child{
+    border-right: none;
+}
+
+.topnav h1{
+    text-align: center;
+}
+
+.topnav li{
+    display: inline-block;
+    padding-left: 1.0rem;
+}
+
+.topnav a {
+    float:left;
+    text-decoration: none;
+    font-size: 25px;
+    color: 	#2A6F97;
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+  }
+.topnav a:hover{
+    color: #6fA4C1;
+    border-left: 1px solid #2A6F97;
+    border-right: 1px solid #2A6F97;
+}
+.topnav .active{
+  background-color: #013A63;
+}
