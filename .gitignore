@@ -1,4 +1,11 @@
-.venv
+#package files
 __pycache__
 .vscode
-flaskproject
+
+#personal files
+*.sql
+testing.py
+
+#generated images
+*.png
+*.jpg
