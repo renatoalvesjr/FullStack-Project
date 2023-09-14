@@ -1,4 +1,4 @@
-# FullStack-Project
+# Full Stack Project
 A simple Full Stack project using Python that works with data manipulation and visualization using different libraries.
 The main objective of this project is to improve my knowledge of python while improving other aspects of data analysis, web design, database management and full stack development.
 <br>
