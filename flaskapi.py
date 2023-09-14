@@ -17,7 +17,7 @@ def get_data():
     # Renderizar a página HTML com a lista de números
     return render_template('tables.html', numeros=numeros)
 
-@server.route('/index   ')
+@server.route('/')
 def index():
     return render_template('index.html')
 
