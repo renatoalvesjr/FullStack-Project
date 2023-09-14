@@ -21,12 +21,18 @@ body{
     background-color: #2A6F97;
     font-family: RobotoCondensed;
 }
-.topnav ul{
+.topnav{
+    background-color: #012A4A;
+    margin-right: -8px;
+    margin-left: -8px;
+    margin-top: -8px;
+}
+.topnav ul,h1{
     text-align: center;
     margin-right: -8px;
     margin-left: -8px;
     margin-top: -8px;
-    background-color: #012A4A;
+
     overflow: hidden;
 }
 .topnav li:last-child{
