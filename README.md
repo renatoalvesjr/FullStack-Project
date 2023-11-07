@@ -5,8 +5,8 @@ The main objective of this project is to improve my knowledge of python while im
 
 ### Libraries
 
-- The followup of some required libraries to install in your workspace:
-  - pandas - For data manipulation and generation
+- The followup are the required libraries to install in your workspace:
+  - pandas - For data manipulation and creation
   - matplotlib - To create different form of data visualization
   - Flask - For the creation of the api itself
 
